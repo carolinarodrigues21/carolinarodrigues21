@@ -1,16 +1,12 @@
 ### Hi there 👋
+## About me 
+- ⚛️ Physics Undergraduate Student at Federal University of Rio de Janeiro (UFRJ)
+- 💻 Working with Software Engineering at CERN
 
-<!--
-**carolinarodrigues21/carolinarodrigues21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+### 🔥Status:
+<div>
+  <a href+"https://github.com/carolinarodrigues21">
+  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=carolinarodrigues21&show_icons=true&theme=tokyonight&include_all_comits=true&count_privae=true%22/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinarodrigues21&layout=compact&langs_count=16&theme=tokyonight"/> 
+</div>
