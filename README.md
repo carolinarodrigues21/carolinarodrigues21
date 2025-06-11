@@ -1,7 +1,6 @@
 ### Hi there 👋
 ## 👩‍💻About me 
 - ⚛️ Physics Undergraduate Student at Federal University of Rio de Janeiro (UFRJ)
-- 💻 Working with Software Engineering at CERN
 
 ##
 ## 🔥Status:
